@@ -1,3 +1,11 @@
 
-{"temp":123,"status":true}
+{
+   "temp":
+   {
+      "a",
+      "b",
+      "c"
+   },
+   "status":true
+}
    
