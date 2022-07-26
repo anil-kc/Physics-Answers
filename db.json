@@ -1,11 +1,44 @@
 
 {
-   "temp":
-   {
-      "a",
-      "b",
-      "c"
-   },
-   "status":true
+  "solyt": [
+    {
+      "id": 1,
+      "name": "Ram Tamang",
+      "province": 3,
+      "district": 2,
+      "municipality": 3,
+      "ward": 2,
+      "description": "khalo paryok garne",
+      "image": "https://rrkp.ran.org.np/271586397_691958931975276_4436969299738819498_n.jpg",
+      "status": "unsolve",
+      "created_date": "2022-07-23T07:16:28.066762Z",
+      "edited_date": "2022-07-23T07:16:28.066783Z"
+    },
+    {
+      "id": 2,
+      "name": "Anil KC",
+      "province": 3,
+      "district": 4,
+      "municipality": 2,
+      "ward": 7,
+      "description": "pul bhatkiyo",
+      "image": "https://rrkp.ran.org.np/271586397_691958931975276_4436969299738819498_n.jpg",
+      "status": "unsolve",
+      "created_date": "2022-07-23T07:16:28.066762Z",
+      "edited_date": "2022-07-23T07:16:28.066783Z"
+    },
+    {
+      "id": 3,
+      "name": "Ram bro",
+      "province": 4,
+      "district": 5,
+      "municipality": 6,
+      "ward": 8,
+      "description": " Balen bro",
+      "image": "https://rrkp.ran.org.np/271586397_691958931975276_4436969299738819498_n.jpg",
+      "status": "unsolve",
+      "created_date": "2022-07-23T07:16:28.066762Z",
+      "edited_date": "2022-07-23T07:16:28.066783Z"
+    }
+  ]
 }
-   
